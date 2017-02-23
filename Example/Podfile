@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'WHPageCollectionView_Example' do
+  pod 'WHPageCollectionView', :path => '../'
+
+  target 'WHPageCollectionView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
