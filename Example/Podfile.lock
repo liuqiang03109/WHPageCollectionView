@@ -1,0 +1,16 @@
+PODS:
+  - WHPageCollectionView (0.1.0)
+
+DEPENDENCIES:
+  - WHPageCollectionView (from `../`)
+
+EXTERNAL SOURCES:
+  WHPageCollectionView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  WHPageCollectionView: f691c7c1132260f9c18563931e8f6ae70d2a15b3
+
+PODFILE CHECKSUM: 13400d3ad306f99d121b82ffd3abab5dda4bdf0f
+
+COCOAPODS: 1.2.0.beta.3
